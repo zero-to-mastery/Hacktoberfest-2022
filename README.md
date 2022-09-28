@@ -19,7 +19,7 @@ This event is a super popular event throughout the Zero To Mastery community, wi
 
 **Following their success, we are excited to announce 3 brand new projects for this year's Hacktoberfest:**
 
-#### [![Canvaz](https://img.shields.io/badge/CREATIVE%20CSS%20PROJECT-Canvaz-4E3188?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/Canvaz)
+#### [![Canvas 2022](https://img.shields.io/badge/CREATIVE%20CSS%20PROJECT-Canvas-4E3188?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/canvas-2022)
 
 Your favourite annual creative challenge for Hacktoberfest is here! We will once again be showcasing the creative talents of our ZTM students, this time using the HTML <canvas> element.
 
@@ -27,23 +27,21 @@ Your favourite annual creative challenge for Hacktoberfest is here! We will once
 
 > Using HTML, CSS and vanilla JavaScript, your mission is to create a work of art with the `<canvas>` element. It can be as simple or elaborate as you like, however please ensure that the code is your own, and not copied from other sources.
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/canvaz)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/canvas-2022)
 
-#### [![](https://img.shields.io/badge/Html%20%26%20Javascript%20%26%20CSS%20PROJECT%20Powered%20by%20StencilJS-WebBlocks-00adb5?style=for-the-badge&logo=JavaScript)](https://github.com/zero-to-mastery/WebBlocks)
+#### [![](https://img.shields.io/badge/Html%20%26%20Javascript%20%26%20CSS%20PROJECT-WebBlocks-00adb5?style=for-the-badge&logo=JavaScript)](https://github.com/zero-to-mastery/webblocks-2022)
 
 Welcome to this years HTML challenge for Hacktoberfest, a project with beginners and aspiring developers in mind, utilizing HTML, CSS & maybe a dash of JavaScript to create a component library showcase.
 
 ##### PROJECT INTRODUCTION
 
-> There is a big hype about front-end frameworks all over the place. But what if we could build components without the need to reach out for big players like React,Vue and Angular?
->
-> Turns out, this is a totally possible thing to do and it is quite easy using StencilJs, not only that we can build components which we can use in vanilla HTML, JS and CSS projects, but also creating components which we can also reuse with frameworks like React, Vue and Angular.
->
-> So the goal of this project is to exactly showcase that
+There is a big hype about front-end frameworks all over the place. But in this project we are going to build a showcase library of components using vanilla HTML, CSS and maybe some Javascript.
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/WebBlocks)
+Everyone is highly encouraged to partipate in this project regardless of you knowledge, after all practice makes us all better developers!
 
-#### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art-2021)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/webblocks-2022)
+
+#### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art-2022)
 
 Welcome to this years Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
 
@@ -55,18 +53,16 @@ ASCII art is a graphic design technique that uses computers for presentation and
 
 The options are endless and there is no wrong answer. This is all for fun, so try to customize the tool whichever way you think would be best and let's see what we get at the end of the month! Enjoy!
 
-[Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art-2021)
+[Project Repo/Instructions](https://github.com/zero-to-mastery/ascii-art-2022)
 
 # But how do I make a pull request/participate?
 
-> If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines). This repo has everything you need to learn about open-source, with a step-by-step guide to making your very first PR also check out the video linked below:
+If you've never made a pull request before, or participated in an open-source project, we recommend taking a look at:
 
-[![Watch the video](https://i.ytimg.com/vi/uQLNFRviB6Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=uQLNFRviB6Q)
+- Our [Start Here Guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+- Our [Youtube Video](https://www.youtube.com/watch?v=uQLNFRviB6Q).
 
-[![Watch the video](https://cdn.discordapp.com/attachments/1005897389351116920/1024412847897333881/Open_Source.png)](https://www.youtube.com/watch?v=uQLNFRviB6Q)
-
-
-> Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
+These two resources have everything you need to learn about open-source, with a step-by-step guide to making your very first PR. Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
 
 # What happens after I make a pull request?
 
@@ -76,4 +72,4 @@ Meanwhile, Hacktoberfest keeps track of all your pull requests. And, as mentione
 
 > Some repositories are ineligible for Hacktoberfest as they aren't up to the mark with the event's values. You can find all **Zero To Mastery** repositories that are eligible for the event [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Azero-to-mastery+fork%3Atrue).
 
-**Remember, you only need to make 4 pull requests to one of these open source projects in the month of October, and you get an awesome Hacktoberfest shirt! Let's see if we can beat the record from last year!!**
+**Remember, you only need to make 4 pull requests to any of these open source projects in the month of October, and you get an awesome Hacktoberfest shirt! Let's see if we can beat the record from last year!!**
