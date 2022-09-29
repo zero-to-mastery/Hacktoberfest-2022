@@ -29,11 +29,12 @@ Your favourite annual creative challenge for Hacktoberfest is here! We will once
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/canvas-2022)
 
+-----------
 #### [![](https://img.shields.io/badge/Html%20%26%20Javascript%20%26%20CSS%20PROJECT-WebBlocks-00adb5?style=for-the-badge&logo=JavaScript)](https://github.com/zero-to-mastery/webblocks-2022)
 
 Welcome to this years HTML challenge for Hacktoberfest, a project with beginners and aspiring developers in mind, utilizing HTML, CSS & maybe a dash of JavaScript to create a component library showcase.
 
-##### PROJECT INTRODUCTION
+#### PROJECT INTRODUCTION
 
 There is a big hype about front-end frameworks all over the place. But in this project we are going to build a showcase library of components using vanilla HTML, CSS and maybe some Javascript.
 
@@ -41,13 +42,14 @@ Everyone is highly encouraged to partipate in this project regardless of you kno
 
 [Project Repo/Instructions](https://github.com/zero-to-mastery/webblocks-2022)
 
+-----------
 #### [![ASCII ART](https://img.shields.io/badge/PYTHON%20PROJECT-ASCII%20ART-blue?style=for-the-badge&logo=Python)](https://github.com/zero-to-mastery/ascii-art-2022)
 
 Welcome to this years Python challenge for Hacktoberfest, A project with beginners and aspiring developers in mind, utilizing Python to convert images into ASCII Art.
 
 ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters.
 
-##### PROJECT INTRODUCTION
+#### PROJECT INTRODUCTION
 
 > Let's see how we can evolve the ASCII generator with our ZTM community help!! Maybe we want to display this on an HTML web page where users can submit images and we convert it to ASCII art? Maybe we want to improve how the Command Line Tool works/make it more customizeable? Or maybe modify the script to do many other types of art beyond ASCII.
 
