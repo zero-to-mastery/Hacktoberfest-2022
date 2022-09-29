@@ -7,7 +7,7 @@ Every October, Digital Ocean runs Hacktoberfest, a month-long celebration of ope
 Hacktoberfest 2022 returns to ZTM with three brand new projects for you to complete the challenge and **earn a limited edition T-shirt!** All you have to do to take part is:
 
 - Sign up on the [Official Hacktoberfest Website](https://hacktoberfest.com/auth/)
-- Make 4 **quality** pull requests to any **participating** public repository during the month of October!
+- Make 4 **quality** pull requests to any **participating** public repository during the month of October (ZTM has open source projects you can contribute to with our Hacktoberfest Projects)!
 - Have fun
 
 This year, the first 40,000 participants who successfully complete the challenge will entitled to a free limited edition T-shirt!
