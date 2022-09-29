@@ -8,6 +8,7 @@ Hacktoberfest 2022 returns to ZTM with three brand new projects for you to compl
 
 - Sign up on the [Official Hacktoberfest Website](https://hacktoberfest.com/auth/)
 - Make 4 **quality** pull requests to any **participating** public repository during the month of October (ZTM has open source projects you can contribute to with our Hacktoberfest Projects)!
+- Start chatting with other ZTM students in the #hacktoberfest-2022 channel on our Discord
 - Have fun
 
 This year, the first 40,000 participants who successfully complete the challenge will entitled to a free limited edition T-shirt!
